@@ -17,15 +17,6 @@
   - Date Range: January 2022 - December 2023
   - Key Variables: customer demographics (gender, income), vehicle specs (company, model, body style, transmission, color, price), dealer info (name, region), transaction date
 
-## Key Findings
-
-- Gender significantly influences body style and price range preferences (p < 0.05)
-- Automatic transmissions command higher average prices than manual transmissions
-- Weak positive correlation between customer income and vehicle price (r = 0.012)
-- Austin region leads in total revenue, followed by Janesville and Scottsdale
-- SUVs and automatic transmissions dominate market preferences
-- Strong seasonal patterns identified in sales volume and pricing
-
 ## Acknowledgements
 
 Dataset sourced from Kaggle for educational and analytical purposes.

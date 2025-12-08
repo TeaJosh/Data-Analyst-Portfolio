@@ -8,8 +8,8 @@ In this portfolio, I have included data projects that showcase my technical skil
 
 ## Table of Contents
 
-* [About](https://github.com/yourusername/Data-Analyst-Portfolio/blob/main/README.md)
-* [Portfolio Projects](https://github.com/yourusername/Data-Analyst-Portfolio?tab=readme-ov-file#projects)
+* [About](https://github.com/TeaJosh/Data-Analyst-Portfolio/blob/main/README.md)
+* [Portfolio Projects](https://github.com/TeaJosh/Data-Analyst-Portfolio/tree/main)
    * R
       * [Car Sales Analysis](https://github.com/TeaJosh/Data-Analyst-Portfolio/blob/main/R/car_sales_analysis.ipynb)
    * Python

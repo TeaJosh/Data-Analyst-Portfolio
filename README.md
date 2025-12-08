@@ -11,7 +11,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 * [About](https://github.com/yourusername/Data-Analyst-Portfolio/blob/main/README.md)
 * [Portfolio Projects](https://github.com/yourusername/Data-Analyst-Portfolio?tab=readme-ov-file#projects)
    * R
-      * [Car Sales Analysis]([https://github.com/yourusername/Data-Analyst-Portfolio/tree/main/Car%20Sales%20Analysis](https://github.com/TeaJosh/Data-Analyst-Portfolio/blob/main/R/car_sales_analysis.ipynb))
+      * [Car Sales Analysis](https://github.com/TeaJosh/Data-Analyst-Portfolio/blob/main/R/car_sales_analysis.ipynb)
    * Python
       * Coming soon
    * SQL
